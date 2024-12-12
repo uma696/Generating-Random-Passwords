@@ -1,2 +1,2 @@
 # Generating-Random-Passwords
-GENERATING RANDOM 'N' NUMBER OF PASSWORDS WITH LENGTH DEPENDING ON USER REQUIREMENT
+Created Random 'N' Passwords Generator
